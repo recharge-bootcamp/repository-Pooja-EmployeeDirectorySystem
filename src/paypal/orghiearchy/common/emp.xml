@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emp>
+<emp_title>Mrs</emp_title>
+<emp_name>Kalyani</emp_name>
+<emp_role_id>4</emp_role_id>
+<emp_reporting_id>4</emp_reporting_id>
+<emp_status>1</emp_status>
+<detail>
+	<emp_vert_id>1</emp_vert_id>
+	<emp_domain_id>2</emp_domain_id>
+	<emp_org_id>3</emp_org_id>
+</detail>
+
+
+</emp>
+
+<!-- emp_id               emp_title  emp_name                                           role_id    emp_supervisor_id emp_status  -->
